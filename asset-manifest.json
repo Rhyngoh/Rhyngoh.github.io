@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Rhyngoh.github.io/static/css/main.44c66413.css",
+    "main.js": "/Rhyngoh.github.io/static/js/main.b3ef1425.js",
+    "static/media/reem-kufi-v4-latin-regular.woff": "/Rhyngoh.github.io/static/media/reem-kufi-v4-latin-regular.bcabf343cd8e564915dc.woff",
+    "static/media/reem-kufi-v4-latin-regular.woff2": "/Rhyngoh.github.io/static/media/reem-kufi-v4-latin-regular.8379aea8847251e1afb4.woff2",
+    "static/media/roboto-300.woff2": "/Rhyngoh.github.io/static/media/roboto-300.1346ba1c5768889bfc0a.woff2",
+    "static/media/roboto-900.woff2": "/Rhyngoh.github.io/static/media/roboto-900.0cbfee1a4a6ebde0900b.woff2",
+    "static/media/roboto-400.woff2": "/Rhyngoh.github.io/static/media/roboto-400.f0da3b6e60388f7126f5.woff2",
+    "static/media/roboto-100.woff2": "/Rhyngoh.github.io/static/media/roboto-100.0d4d10b86740c508af8f.woff2",
+    "index.html": "/Rhyngoh.github.io/index.html",
+    "main.44c66413.css.map": "/Rhyngoh.github.io/static/css/main.44c66413.css.map",
+    "main.b3ef1425.js.map": "/Rhyngoh.github.io/static/js/main.b3ef1425.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44c66413.css",
+    "static/js/main.b3ef1425.js"
+  ]
+}
